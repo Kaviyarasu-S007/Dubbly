@@ -51,33 +51,40 @@ Due to computational constraints, only small duration videos have been tested. T
 ![image](https://github.com/user-attachments/assets/b8d95c02-9bb0-4ff4-b30c-52683d28c3eb)
 
 
+
 ## HOME PAGE TO UPLOAD THE MOVIE
 ![main ui](https://github.com/user-attachments/assets/26eeeeb7-b111-4124-9cd9-daa16f5a3502)
+
 
 
 ## PREVIEW OF THE MOVIE
 ![upload video](https://github.com/user-attachments/assets/ea8a2e0a-34b4-4289-b61d-f4db2a141947)
 
 
+
 ## FINALLY THE AUDIO GENERATED!!!
 ![final audio](https://github.com/user-attachments/assets/436e8500-da82-4f09-9d8a-05f0aad8522a)
+
 
 
 ## MINI AUDIO PLAYER TO PLAY THE AUDIO
 ![audio player](https://github.com/user-attachments/assets/ae0cf064-2253-4edf-b75d-03230a900f01)
 
 
-## Also tried to generate a commentry for the football match using cloned voice.
 
+## Also tried to generate a commentry for the football match using cloned voice.
 ![football1](https://github.com/user-attachments/assets/15d14e72-78f4-4c2f-a280-8700c73772da)
+
 
 
 
 ## SAMPLE CLONINGS
 
-**LEO TRAILER DUBBING**
+**DUBBED LEO TRAILER**
+
 **Vijay voice to Tom Cruise voice**
 https://drive.google.com/file/d/1k61pBxknL_CTulNOCsf0RnAd4g5gfQ3f/view?usp=drive_link
+
 
 **Cloned RJ Balaji's voice and tried with different dialogues**:
 
