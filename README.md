@@ -1,4 +1,5 @@
-# 🎬✨ Dubbly: The Movie Dubbing App 🎭🎶
+# 🎬✨ Dubbly
+**The Movie Dubbing App 🎭🎶**
 
 This web application allows users to dub movies from one language to another using cloned voices that mimic the original character's voice. This app identifies and separates the characters' voices, clones them, and re-attaches the new voices to the video, producing a dubbed version in the desired language.
 
