@@ -75,7 +75,7 @@ Due to computational constraints, only small duration videos have been tested. T
 
 ## SAMPLE CLONINGS
 
-## SAMPLE TRAILER DUBBING
+**LEO TRAILER DUBBING**
 **Vijay voice to Tom Cruise voice**
 https://drive.google.com/file/d/1k61pBxknL_CTulNOCsf0RnAd4g5gfQ3f/view?usp=drive_link
 
