@@ -72,7 +72,13 @@ Due to computational constraints, only small duration videos have been tested. T
 ![football1](https://github.com/user-attachments/assets/15d14e72-78f4-4c2f-a280-8700c73772da)
 
 
+
 ## SAMPLE CLONINGS
+
+## SAMPLE TRAILER DUBBING
+**Vijay voice to Tom Cruise voice**
+https://drive.google.com/file/d/1k61pBxknL_CTulNOCsf0RnAd4g5gfQ3f/view?usp=drive_link
+
 **Cloned RJ Balaji's voice and tried with different dialogues**:
 
 Original Dialogue : https://drive.google.com/file/d/1wwpfDHmKfiEBtv0vdOPTOJLzjhDxVsgu/view?usp=sharing
